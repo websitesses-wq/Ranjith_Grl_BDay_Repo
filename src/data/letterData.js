@@ -93,71 +93,71 @@ export const THINGS_19 = [
   {
     id: 10,
     number: "10",
-    yearLabel: "10th Year • 4th Standard",
-    tag: "English Torture 📖",
-    text: "10th year 4th lo aythe anill antony english lesson starting paper ki adu petena torture antha entha kadhu"
+    yearLabel: "10th Year • 5th Standard",
+    tag: "Favorite Teachers ⭐",
+    text: "10th year5th lo dhanlakshmi miss rejeni miss Mee favourite teachers"
   },
   {
     id: 11,
     number: "11",
-    yearLabel: "11th Year • 5th Standard",
-    tag: "Favorite Teachers ⭐",
-    text: "11th year5th lo dhanlakshmi miss rejeni miss Mee favourite teachers"
+    yearLabel: "11th Year • 6th Standard",
+    tag: "Affrin Miss 🌷",
+    text: "11th year 6th lo affrin miss a miss ki nenu ante chala eshtam"
   },
   {
     id: 12,
     number: "12",
-    yearLabel: "12th Year • 6th Standard",
-    tag: "Affrin Miss 🌷",
-    text: "12th year 6th lo affrin miss a miss ki nenu ante chala eshtam"
+    yearLabel: "12th Year • 7th Standard",
+    tag: "Chetana Miss 😅",
+    text: "12th year 7th lo niku chapalsina avsram ledhu chala jeregaye pentalu, chetana miss ki nuve collie sorry sorry favourate astudent."
   },
   {
     id: 13,
     number: "13",
-    yearLabel: "13th Year • 7th Standard",
-    tag: "Chetana Miss 😅",
-    text: "13th year 7th lo niku chapalsina avsram ledhu chala jeregaye pentalu, chetana miss ki nuve collie sorry sorry student"
+    yearLabel: "13th Year • 8th Standard",
+    tag: "School Drama & Mummy 🙈",
+    text: "13th year 8th lo nelavathi miss ni gurenche deekshitha gurenchi baa chapi andaru edavalu ani chapedhe ma mummy ki \nMarchepoya Nithin okadu. manchi impressione kotesaru.enkokate rahul ki Neku eeyuuuu ani vadne daneke reason undhi."
   },
   {
     id: 14,
     number: "14",
-    yearLabel: "14th Year • 8th Standard",
-    tag: "School Drama & Mummy 🙈",
-    text: "14th year 8th lo nelavathi miss ni gurenche deekshitha gurenchi baa chapi andaru edavalu ani chapedhe ma mummy ki \nMarchepoya Nithin okadu. manchi impressione kotesaru.enkokate rahul ki Neku eeyuuuu ani vadne daneke reason undhi."
+    yearLabel: "14th Year • 9th Standard",
+    tag: "Online Class Speed ⚡",
+    text: "14th year 9th naku epudu lenede nepina ochina kopam venaka venaka online classes vente questions adege answer type cheselopu neperu chapesevalu ade ella antha first ga type chesedanvi nak teledama."
   },
   {
     id: 15,
     number: "15",
-    yearLabel: "15th Year • 9th Standard",
-    tag: "Online Class Speed ⚡",
-    text: "15th year 9th naku epudu lenede nepina ochina kopam venaka venaka online classes vente questions adege answer type cheselopu neperu chapesevalu ade ella antha first ga type chesedanvi nak teledama."
+    yearLabel: "15th Year • 10th Standard",
+    tag: "10th Class Memories 🥺",
+    text: "15th year 10th e oka last year nuvu undunte chala bagundu koni mancheve koni chedave redu memories bagunadu.aa oka last year undunte group photo lo nuvundedanvi eam cheylem"
   },
   {
     id: 16,
     number: "16",
-    yearLabel: "16th Year • 10th Standard",
-    tag: "10th Class Memories 🥺",
-    text: "16 th year 10th e oka last year nuvu undunte chala bagundu koni mancheve koni chedave redu memories bagunadu.aa oka last year undunte group photo lo nuvundedanvi eam cheylem"
+    yearLabel: "16th Year • Inter 1st",
+    tag: "New Chapters 🌅",
+    text: "16th year ni first year Ela jaregendho teledu"
   },
   {
     id: 17,
     number: "17",
-    yearLabel: "17th Year • Inter 1st",
-    tag: "New Chapters 🌅",
-    text: "17th year ni first year Ela jaregendho teledu"
+    yearLabel: "17th Year • Inter 2nd",
+    tag: "Second Year 📖",
+    text: "17th year second year lo kuda naku teledu"
   },
   {
     id: 18,
     number: "18",
     yearLabel: "18th Year • NEET Long Term",
     tag: "NEET Cracker 🏆",
-    text: "18th year second year lo kuda naku teledu \n   Next Long term chesenapudu matram nuvu highlight asalu nanu adegethe nuvu chesende mana batch gane mana senior batch gane neet crack chesende chudaledhu a veshaym lo matram nuvu chala ante chala great."
+    text: "Next Long term chesenapudu matram nuvu highlight asalu nanu adegethe nuvu chesende mana batch gane mana senior batch gane neet crack chesende chudaledhu a veshaym lo matram nuvu chala ante chala great."
   },
   {
     id: 19,
     number: "19",
     yearLabel: "19th Year • Doctor Harshitha",
     tag: "Doctor Harshitha 🩺✨",
-    text: "19th kotha prapancham lo adugu petav apatenunchi harshitha doctor harshitha ga marende entha kastam ga untudho maa akka ni chuse uhencha galanu ayna aa bayam lekunda  nuvu enka nee goals ni reach avi manchi doctor avutav endukante mee doctors andaru chala practical ga untaru."
+    text: "18th kotha prapancham lo adugu petav apatenunchi harshitha doctor harshitha ga marende entha kastam ga untudho maa akka ni chuse uhencha galanu ayna aa bayam lekunda  nuvu enka nee goals ni reach avi manchi doctor avutav endukante mee doctors andaru chala practical ga untaru."
   }
 ];
